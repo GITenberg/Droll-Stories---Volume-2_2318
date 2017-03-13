@@ -1,5 +1,8 @@
 _repo: Droll-Stories---Volume-2_2318
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -17,6 +20,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: "Translation of: Les contes drôlatiques\r\nSee also: Vol 1: #1925, Vol\
   \ 3: #2551, and the complete work #13260"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2318#Droll-Stories---Volume-2
 gutenberg_issued: '2004-08-23'
 gutenberg_type: Text
 identifiers:
